@@ -1,2 +1,2 @@
-PyQT6
+PyQt6
 discord-webhook
